@@ -1,0 +1,27 @@
+{
+  "name": "number-pad",
+  "version": "0.0.0",
+  "description": "Convert a string to a number based on a classic phone number pad encoding",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^8.6.0",
+    "tape": "^4.6.3"
+  },
+  "bin": {
+    "number-pad": "./bin.js"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/number-pad.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/number-pad/issues"
+  },
+  "homepage": "https://github.com/mafintosh/number-pad"
+}
