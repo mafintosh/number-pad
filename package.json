@@ -1,6 +1,6 @@
 {
   "name": "number-pad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a string to a number based on a classic phone number pad encoding",
   "main": "index.js",
   "dependencies": {},
