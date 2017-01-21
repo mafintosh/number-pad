@@ -17,6 +17,15 @@ var numberPad = require('number-pad')
 console.log(numberPad('data')) // 3282
 ```
 
+## Command line
+
+You can install the command line module as well
+
+```
+npm install -g number-pad
+number-pad data # prints 3282
+```
+
 ## License
 
 MIT
